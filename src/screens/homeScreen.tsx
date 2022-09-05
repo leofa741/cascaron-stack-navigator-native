@@ -7,6 +7,7 @@ export const HomeScreen = () => {
     <View>
       
     <Text>App</Text>
+    <Icon name="star" size={40}></Icon>
 
     
   </View>
